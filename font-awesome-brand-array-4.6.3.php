@@ -15,6 +15,11 @@ $fa_brand_icons = array(
 		'name'		=> 'angellist',
 		'unicode'	=> '\f209',
 	),
+	'bandcamp.com'	=> array(
+		'color'		=> '#4390a8',
+		'name'		=> 'bandcamp',
+		'unicode'	=> '\f2d5',
+	),
 	'behance.net'	=> array(
 		'color'		=> '#1769ff',
 		'name'		=> 'behance',
@@ -95,6 +100,16 @@ $fa_brand_icons = array(
 		'name'		=> 'drupal',
 		'unicode'	=> '\f1a9',
 	),
+	'eercast.com'	=> array(
+		'color'		=> '#ef5934',
+		'name'		=> 'eercast',
+		'unicode'	=> '\f2da',
+	),
+	'etsy.com'	=> array(
+		'color'		=> '#F56400',
+		'name'		=> 'etsy',
+		'unicode'	=> '\f2d7',
+	),
 	'facebook.com'	=> array(
 		'color'		=> '#3b5998',
 		'name'		=> 'facebook',
@@ -109,6 +124,11 @@ $fa_brand_icons = array(
 		'color'		=> '#2d5be3',
 		'name'		=> 'foursquare',
 		'unicode'	=> '\f180',
+	),
+	'freecodecamp.com'	=> array(
+		'color'		=> '#006400',
+		'name'		=> 'free-code-camp',
+		'unicode'	=> '\f2c5',
 	),
 	'getpocket.com'	=> array(
 		'color'		=> '#ee4056',
@@ -145,6 +165,11 @@ $fa_brand_icons = array(
 		'name'		=> 'gratipay',
 		'unicode'	=> '\f184',
 	),
+	'getgrav.org'	=> array(
+		'color'		=> '#844BA1',
+		'name'		=> 'grav',
+		'unicode'	=> '\f2d6',
+	),
 	'news.ycombinator.com'	=> array(
 		'color'		=> '#ff6600',
 		'name'		=> 'hacker-news',
@@ -154,6 +179,11 @@ $fa_brand_icons = array(
 		'color'		=> '#55a32a',
 		'name'		=> 'houzz',
 		'unicode'	=> '\f27c',
+	),
+	'imdb.com'	=> array(
+		'color'		=> '#f3ce00',
+		'name'		=> 'imdb',
+		'unicode'	=> '\f2d8',
 	),
 	'instagram.com'	=> array(
 		'color'		=> '#e40b23',
@@ -180,6 +210,11 @@ $fa_brand_icons = array(
 		'name'		=> 'lastfm',
 		'unicode'	=> '\f202',
 	),
+	'linode.com'	=> array(
+		'color'		=> '#3bb878',
+		'name'		=> 'linode',
+		'unicode'	=> '\f2b8',
+	),
 	'leanpub.com'	=> array(
 		'color'		=> '#231f20',
 		'name'		=> 'leanpub',
@@ -205,10 +240,15 @@ $fa_brand_icons = array(
 		'name'		=> 'medium',
 		'unicode'	=> '\f23a',
 	),
-	'mixcloud.com'	=> array(
-		'color'		=> '#34495e',
-		'name'		=> 'mixcloud',
-		'unicode'	=> '\f289',
+	'medium.com'	=> array(
+		'color'		=> '#02b875',
+		'name'		=> 'medium',
+		'unicode'	=> '\f23a',
+	),
+	'meetup.com'	=> array(
+		'color'		=> '#ed1c40',
+		'name'		=> 'meetup',
+		'unicode'	=> '\f2e0',
 	),
 	'modx.com'	=> array(
 		'color'		=> '#79b14c',
@@ -255,10 +295,25 @@ $fa_brand_icons = array(
 		'name'		=> 'product-hunt',
 		'unicode'	=> '\f288',
 	),
+	'meetup.com'	=> array(
+		'color'		=> '#ed1c40',
+		'name'		=> 'meetup',
+		'unicode'	=> '\f2e0',
+	),
 	'qq.com'	=> array(
 		'color'		=> '#5da4e6',
 		'name'		=> 'qq',
 		'unicode'	=> '\f1d6',
+	),
+	'quora.com'	=> array(
+		'color'		=> '#b92b27',
+		'name'		=> 'quora',
+		'unicode'	=> '\f2c4',
+	),
+	'ravelry.com'	=> array(
+		'color'		=> '#bc1c49',
+		'name'		=> 'ravelry',
+		'unicode'	=> '\f2d9',
 	),
 	'reddit.com'	=> array(
 		'color'		=> '#ff4500',
@@ -349,6 +404,11 @@ $fa_brand_icons = array(
 		'color'		=> '#3d95d5',
 		'name'		=> 'tencent-weibo',
 		'unicode'	=> '\f1d5',
+	),
+	'telegram.org'	=> array(
+		'color'		=> '#0088cc',
+		'name'		=> 'telegram',
+		'unicode'	=> '\f2c6',
 	),
 	'themeisle.com'	=> array(
 		'color'		=> '#189ac4',
@@ -444,6 +504,11 @@ $fa_brand_icons = array(
 		'color'		=> '#2d2520',
 		'name'		=> 'wpbeginner',
 		'unicode'	=> '\f297',
+	),
+	'wpexplorer.com'	=> array(
+		'color'		=> '#1796c6',
+		'name'		=> 'wpexplorer',
+		'unicode'	=> '\f2de',
 	),
 	'xing.com'	=> array(
 		'color'		=> '#005453',
